@@ -32,12 +32,12 @@ const Footer = () => {
             <footer className="socialMedia">
                 <div className="items-center">
                     <i class="fa fa-hashtag text-white fs-4"></i>
-                    <p className='font-bold'>BUILT BY KHALED.</p>
+                    <p className='font-bold'>SAURAV KUMAR AND ABHAY KUMAR PANDIT</p>
                 </div>
                 <div className="social-icon">
-                    <a href="https://github.com/khaledelgamely"><i className='fa fa-github text-white fs-4 ' type="button"></i></a>
-                    <a href="https://www.linkedin.com/in/khalid-elgamely-874470242/"><i className='fa fa-linkedin text-white fs-4 ' type="button"></i></a>
-                    <a href=""><i className='fa fa-instagram text-white fs-4 ' type="button"></i></a>
+                    <a href="#"><i className='fa fa-github text-white fs-4 ' type="button"></i></a>
+                    <a href="#"><i className='fa fa-linkedin text-white fs-4 ' type="button"></i></a>
+                    <a href="#"><i className='fa fa-instagram text-white fs-4 ' type="button"></i></a>
                 </div>
             </footer>
         </div>

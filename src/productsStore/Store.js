@@ -9,7 +9,6 @@ export const store = [
         type: "bestSeller",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Foaming_Facial_Cleanser_125ml_01_Product_540x.jpg?v=1599504600",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Foaming_Facial_Cleanser_125ml_OH_01_1_540x.jpg?v=1599504601",
-
     },
 
     {
@@ -19,7 +18,7 @@ export const store = [
         type: "bestSeller",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Facial_Moisturiser_125ml_01_Product_540x.jpg?v=1599504612",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Facial-Moisturiser_01_540x.jpg?v=1599504612",
-
+       
     },
 
     {
@@ -29,7 +28,7 @@ export const store = [
         type: "bestSeller",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Mist_Toner_125ml_01_Product_540x.jpg?v=1599504641",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Mist_Toner_125ml_OH_01_540x.jpg?v=1599504641",
-
+       
     },
 
     {
@@ -39,7 +38,7 @@ export const store = [
         type: "bestSeller",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Sukin_Super_Greens_Detoxifying_Facial_Masque_540x.jpg?v=1599504639",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Detoxifying-Clay-Masque_01_540x.jpg?v=1599504639",
-
+        
     },
 
     // for navBar ka gift type
@@ -193,7 +192,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Mist_Toner_125ml_01_Product_540x.jpg?v=1599504641",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Mist_Toner_125ml_OH_01_360x.jpg?v=1599504641",
-
+        Amazon:"https://www.amazon.in/Sukin-Original-Hydrating-Toner-125Ml/dp/B0B3DC7PDQ/ref=sr_1_12?crid=2YL4MNZSQL7IF&keywords=sukin&qid=1702141952&sprefix=sukin%2Caps%2C399&sr=8-12&th=1"
     },
 
 
@@ -204,7 +203,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Rose_Mist_Toner_125ml_01_Product_540x.jpg?v=1599504649",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Rose_Mist_Toner_125ml_Green_Tea_Mist_Toner_125ml_01_360x.jpg?v=1599504649",
-
+        Amazon:"https://www.amazon.in/Sukin-Rosehip-Certified-Organic-25Ml/dp/B0B3J3HWY8/ref=sr_1_11?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142094&sprefix=sukin+%2Caps%2C302&sr=8-11"
     },
 
     {
@@ -214,7 +213,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Facial_Moisturiser_125ml_01_Product_540x.jpg?v=1599504612",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Facial-Moisturiser_01_540x.jpg?v=1599504612",
-
+        Amazon:"https://www.amazon.in/Sukin-Signature-Facial-Moisturiser-125Ml/dp/B0B3J4BT6Y/ref=sr_1_5?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142094&sprefix=sukin%2B%2Caps%2C302&sr=8-5&th=1"
     },
 
     {
@@ -224,7 +223,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Micellar_Cleansing_Water_250ml_01_Product_540x.jpg?v=1599504588",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Micellar_Cleansing_Water_250ml_OH_01_540x.jpg?v=1599504588",
-
+        Amazon:"https://www.amazon.in/Sukin-Signature-Antioxidant-Serum-30Ml/dp/B0B3D8T5H7/ref=sr_1_19?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin+%2Caps%2C302&sr=8-19"
     },
 
     {
@@ -234,7 +233,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Cream_Cleanser_125ml_01_Product_540x.jpg?v=1599504664",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Cream_Cleanser_125ml_OH_01_540x.jpg?v=1599504664",
-
+        Amazon:"https://www.amazon.in/Sukin-Signature-Facial-Moisturiser-125Ml/dp/B0B3J4BT6Y/ref=sr_1_5?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin+%2Caps%2C302&sr=8-5"
     },
 
     {
@@ -244,7 +243,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Revitalising_Facial_Scrub_125ml_01_Product_540x.jpg?v=1599504656",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Facial_Masque_Revitalising_Facial_Scrub_125ml_OH_01_540x.jpg?v=1599504656",
-
+        Amazon:"https://www.amazon.in/Sukin-Signature-Revitalising-Facial-Scrub/dp/B0B3CVR91T/ref=sr_1_14?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin%2B%2Caps%2C302&sr=8-14&th=1"
     },
 
     {
@@ -254,7 +253,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Facial_Masque_01_Product_2_540x.jpg?v=1599504579",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Facial_Masque_OH_01_540x.jpg?v=1599504579",
-
+        Amazon:"https://www.amazon.in/Sukin-Signature-Hydrating-Facial-Masque/dp/B0B3CNVB54/ref=sr_1_20?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin%2B%2Caps%2C302&sr=8-20&th=1"
     },
 
 
@@ -265,7 +264,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Antioxident_Eye_Serum_01_Product_540x.jpg?v=1599504580",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Antioxidant_Eye_Cream_30ml_01_540x.jpg?v=1599504580",
-
+        Amazon:"https://www.amazon.in/Sukin-Signature-Antioxidant-Serum-30Ml/dp/B0B3D8T5H7/ref=sr_1_19?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin+%2Caps%2C302&sr=8-19"
     },
 
     {
@@ -275,7 +274,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Sukin-Paw-Paw_540x.jpg?v=1599504587",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/sukin_pawpaw_540x.jpg?v=1599504587",
-
+        Amazon:"https://www.amazon.in/Face-Shop-Cleansing-Brighten-Moisturization/dp/B00FJ2LU2Q/ref=sr_1_32?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin+%2Caps%2C302&sr=8-32"
     },
 
     {
@@ -285,7 +284,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Moisture_Restoring_Night_Cream_120ml_01_Product_2_540x.jpg?v=1599504662",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Moisture_Restoring_Night_Cream_120ml_01_540x.jpg?v=1599504662",
-
+        Amazon:"https://www.amazon.in/Sukin-Purely-Ageless-Restorative-Night/dp/B0B3J3MSDF/ref=sr_1_4?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin%2B%2Caps%2C302&sr=8-4&th=1"
     },
 
     {
@@ -295,7 +294,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Purifying_Facial_Masque_01_Product_2_540x.jpg?v=1599504582",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Facial_Masque_OH_01_540x.jpg?v=1599504579",
-
+        Amazon:"https://www.amazon.in/Sukin-Signature-Hydrating-Facial-Masque/dp/B0B3CNVB54/ref=sr_1_20?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin%2B%2Caps%2C302&sr=8-20&th=1"
     },
 
     {
@@ -305,7 +304,7 @@ export const store = [
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Body_Lotion_500ml_02_540x.jpg?v=1599504645",
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Hydrating-Body-Lotion_02_540x.jpg?v=1599504645",
-
+        Amazon:"https://www.amazon.in/Sukin-Hydrating-Lotion-Bergamot-Patchouli/dp/B09Q5KK82Q/ref=sr_1_10?crid=2BFL01DJCIW3I&keywords=sukin&qid=1702142256&sprefix=sukin%2B%2Caps%2C302&sr=8-10&th=1"
     },
 
     // for ig carosuel  type "IGPOSTS"

@@ -7,9 +7,12 @@ const Feature2 = () => {
     return (
         <div className='d-flex flex-column gap-4 feature2Hold'>
 
+          
+
             <div className='featPicHold '>
                 <FaShippingFast/>
                 <p> 2 DAY SHIPPING </p>
+                <FaLock/>
             </div>
 
             <div className='featPicHold'>
@@ -18,7 +21,7 @@ const Feature2 = () => {
             </div>
 
             <div className='featPicHold'>
-                <FaLock/>
+            <FaLock/>
                 <p> SECURE CHECKOUT </p>
             </div>
         </div>
