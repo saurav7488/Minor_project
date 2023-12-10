@@ -24,8 +24,8 @@ const OurBestSellers = () => {
                             <div style={{display:'flex',alignItems:'flex-start'}} className="text-center fw-bold fs-5 mt-3" >      
                                 <a style={{margin:50}} target='_blank' href={item.Amazon}>Amazon</a>
                                 <a style={{margin:50}} href="https://in.iherb.com/pr/sukin-signature-facial-moisturiser-4-23-fl-oz-125-ml/82900?gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6UrbKmn8_XV7bfcvCKVplIql0G2ciDtrIopMXUK2Xr8TFkMNWiRb1YhoCcW8QAvD_BwE&gclsrc=aw.ds">iHerb</a>
-                                <a style={{margin:50}} href="https://in.iherb.com/pr/sukin-signature-facial-moisturiser-4-23-fl-oz-125-ml/82900?gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6UrbKmn8_XV7bfcvCKVplIql0G2ciDtrIopMXUK2Xr8TFkMNWiRb1YhoCcW8QAvD_BwE&gclsrc=aw.ds">iHerb</a>
-                                <a style={{margin:50}} href="https://in.iherb.com/pr/sukin-signature-facial-moisturiser-4-23-fl-oz-125-ml/82900?gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6UrbKmn8_XV7bfcvCKVplIql0G2ciDtrIopMXUK2Xr8TFkMNWiRb1YhoCcW8QAvD_BwE&gclsrc=aw.ds">iHerb</a></div>
+                                <a style={{margin:50}} href="https://in.iherb.com/pr/sukin-signature-facial-moisturiser-4-23-fl-oz-125-ml/82900?gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6UrbKmn8_XV7bfcvCKVplIql0G2ciDtrIopMXUK2Xr8TFkMNWiRb1YhoCcW8QAvD_BwE&gclsrc=aw.ds">flipkart</a>
+                                <a style={{margin:50}} href="https://in.iherb.com/pr/sukin-signature-facial-moisturiser-4-23-fl-oz-125-ml/82900?gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6UrbKmn8_XV7bfcvCKVplIql0G2ciDtrIopMXUK2Xr8TFkMNWiRb1YhoCcW8QAvD_BwE&gclsrc=aw.ds">Jio Mart</a></div>
                                 <button className="btn btn-dark" onClick={() => dispatch(cartActions.addToCart(item))} >BUY NOW</button>
                             </div>
                         )
